@@ -5,13 +5,13 @@ import android.support.v7.app.AppCompatActivity
 import com.example.dom.firstkotlinproject.R
 import com.example.dom.firstkotlinproject.interfaces.IApiResponse
 import com.example.dom.firstkotlinproject.managers.DataManager
+import com.example.dom.firstkotlinproject.models.SportItemLocation
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
-import models.SportItemLocation
 import retrofit2.Call
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {

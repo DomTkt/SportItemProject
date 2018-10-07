@@ -1,6 +1,6 @@
 package com.example.dom.firstkotlinproject.services
 
-import models.SportItemLocation
+import com.example.dom.firstkotlinproject.models.SportItemLocation
 import retrofit2.Call
 import retrofit2.http.GET
 

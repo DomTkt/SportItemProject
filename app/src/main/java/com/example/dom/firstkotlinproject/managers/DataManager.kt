@@ -1,8 +1,8 @@
 package com.example.dom.firstkotlinproject.managers
 
 import com.example.dom.firstkotlinproject.interfaces.IApiResponse
+import com.example.dom.firstkotlinproject.models.SportItemLocation
 import com.example.dom.firstkotlinproject.services.ISportItemLocationAPIServices
-import models.SportItemLocation
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

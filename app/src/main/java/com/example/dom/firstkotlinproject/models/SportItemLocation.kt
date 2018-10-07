@@ -1,4 +1,4 @@
-package models
+package com.example.dom.firstkotlinproject.models
 
 
 data class SportItemLocation(
